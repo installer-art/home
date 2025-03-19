@@ -44,6 +44,7 @@ class ShoppingMall {
 
   void showTotal() {
     print('장바구니에 $total원 어치를 담으셨네요 !');
+    print('장바구니에 $total원 어치를 담으셨네요 !');
   }
 }
 
